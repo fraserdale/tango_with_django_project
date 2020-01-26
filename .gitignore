@@ -7,3 +7,4 @@ thumbs.db
 tango_with_django_project/__pycache__/
 .vscode
 tango_with_django_project/.vscode
+*/__pycache__/
